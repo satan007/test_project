@@ -1,0 +1,1 @@
+select * from eventsjournal where id = '39A4E4BC-9249-4039-AF5C-687A92F93B32'
